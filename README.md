@@ -27,7 +27,7 @@ Check out my **best projects** so far:
 - 🔒 [Cybersecurity Final Project](GitHub Repo Link)  -->
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=roxysash&theme=dark&hide_border=true&include_all_commits=true&count_private=true)<br/>
+<-- ![](https://github-readme-stats.vercel.app/api?username=roxysash&theme=dark&hide_border=true&include_all_commits=true&count_private=true)<br/> -->
 ![](https://nirzak-streak-stats.vercel.app/?user=roxysash&theme=dark&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=roxysash&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
