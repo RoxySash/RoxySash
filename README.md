@@ -8,12 +8,19 @@ I'm a **customer service advocate turned developer & digital creator** with a pa
 
 ## **💡 What I'm Working On**  
 🚀 **Frontend Challenges** – Completing [Frontend Mentor](https://www.frontendmentor.io/profile/RoxySash) projects  
-📚 **JavaScript & Cybersecurity** – Finishing freeCodeCamp & CS50 Introduction to Computer Science  
+📚 **JavaScript** – Finishing freeCodeCamp
 🎨 **Design & Branding** – Creating logos and digital content  
 📘**Technical Writing** - Diving deeper into technical documentation and contributing to open source
 
+## 🚀 2026 Goals
+- Finish JavaScript projects and challenges 
+- Build 2–3 portfolio apps 
+- Learn WordPress multisite + PHP 
+- Contribute to open source 
+- Document learning journey in blog posts
+
 ## **🛠️ Tech Stack & Skills**  
-- **Languages:** HTML, CSS, JavaScript (ES6+), PHP (learning)  
+- **Languages:** HTML, CSS, JavaScript (ES6+), PHP (learning), C  
 - **Frameworks & Libraries:** React (beginner), Tailwind CSS  
 - **Tools:** Git, GitHub, Canva, Procreate, Adobe Fresco  
 - **Other:** WordPress, Wix, UI/UX design
