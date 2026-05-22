@@ -29,6 +29,10 @@ I'm a **customer service advocate turned developer & digital creator** with a pa
 🛡️ **Cybersecurity Foundations** – Completed Harvard’s Introduction to Cybersecurity through edX  
 • Gained foundational knowledge in risk management, threat detection, and encryption  
 • Studied the human element of security, common attacks, and prevention strategies 
+🛡️ **Google Cybersecurity Certificate** – Completed Google's Cybersecurity Certificate through Google Skills
+• Gained hands-on experience with vulnerability assessment and risk reporting
+• Worked in Google Cloud to identify and analyze security threats
+• Completed a capstone project producing a professional vulnerability assessment report
   
 # 💻 Tech Stack:
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Gimp](https://img.shields.io/badge/Gimp-657D8B?style=for-the-badge&logo=gimp&logoColor=FFFFFF) ![Krita](https://img.shields.io/badge/Krita-203759?style=for-the-badge&logo=krita&logoColor=EEF37B)
@@ -40,14 +44,12 @@ Check out my **best projects** so far:
 - 🔒 [Cybersecurity Final Project](GitHub Repo Link)  -->
 
 # 📊 GitHub Stats:
-<!-- ![](https://github-readme-stats.vercel.app/api?username=roxysash&theme=dark&hide_border=true&include_all_commits=true&count_private=true)<br/> -->
-![](https://nirzak-streak-stats.vercel.app/?user=roxysash&theme=dark&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=roxysash&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+ - under construction...
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=roxysash&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-## **📌 My Goals for 2025**  
+## **📌 My Goals for 2027**  
 ✔️ Build a **strong portfolio** of frontend projects  
 ✔️ Gain **real-world experience** by contributing to open-source  
 ✔️ Become a technical support specialist in a remote-first company like **Automattic**.
